@@ -36,7 +36,7 @@ Research on Robot Technology
         <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/robot-research" target="_blank"> AlohaMini ROS 仿真 </a>
         </td>
-        <td><a href="https://github.com/robot-research/AlohaMini" target="_blank"> AlohaMini </a> <br> 实现 Moveit 双臂控制；Gazebo 仿真联动等。 </td>
+        <td><a href="https://github.com/robot-research/AlohaMini" target="_blank"> AlohaMini </a> <br> 实现 Moveit 双臂控制；Gazebo 仿真联动等。参考simulation/AlohaMini-ROS-README.md 说明 </td>
     </tr>
     <tr>
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
