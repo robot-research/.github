@@ -40,15 +40,12 @@ Research on Robot Technology
     </tr>
     <tr>
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
-            <!-- <a href="" target="_blank"> 6D 姿态估计 </a> -->
-            <a> 6D 姿态估计 </a>
+            <a href="https://github.com/robot-research" target="_blank"> 6D 姿态估计 </a>
         </td>
-        <!-- <td><a href="" target="_blank"> megapose6d </a> <br> 通过图像和相机内参等参数估计物体的 6D 姿态。 </td> -->
-        <td><a> megapose6d </a> <br> 通过图像和相机内参等参数估计物体的 6D 姿态。 </td>
+        <td><a href="https://github.com/robot-research/megapose6d" target="_blank"> megapose6d </a> <br> 通过图像和相机内参等参数估计物体的 6D 姿态。参考USAGE.md </td>
     </tr>
     <tr>
-        <!-- <td><a href="" target="_blank"> Unique3D </a> <br> 根据 2D 物品的图像生成对应的 3D 模型。 </td> -->
-        <td><a> Unique3D </a> <br> 根据 2D 物品的图像生成对应的 3D 模型。 </td>
+        <td><a href="https://github.com/robot-research/Unique3D" target="_blank"> Unique3D </a> <br> 根据 2D 物品的图像生成对应的 3D 模型。参考USAGE.md </td>
     </tr> 
     </tbody>
 </table>
